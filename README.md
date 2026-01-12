@@ -61,6 +61,9 @@ The demo video demonstrates real-time voltage generation and step counting.
 ## Project Setup
 
 ### Final Setup
+
+
+### Final Setup
 ![Final Setup](images/final_setup.jpg)
 
 ### Working Demo Video
