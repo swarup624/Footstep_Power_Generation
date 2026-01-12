@@ -55,3 +55,4 @@ This project demonstrates sustainable energy generation for smart infrastructure
 - LCD interfaced using standard 4-bit mode
 - LED connected as demonstration load
 
+![Project Setup](images/prototype.jpg)
