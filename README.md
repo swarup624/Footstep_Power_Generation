@@ -31,11 +31,6 @@ This project demonstrates the generation of electrical energy from footsteps usi
 
 ---
 
-## Project Setup
-![Project Image](images/prototype.jpg)
-
----
-
 ## Results
 - Successfully generated voltage from footsteps
 - Real-time step count displayed
