@@ -51,6 +51,8 @@ This project demonstrates the generation of electrical energy from footsteps usi
 Swarup Jadhav  
 Automation & Robotics Engineering Student
 
+---
+
 
 The images below show the prototype and final implementation of the footstep power generation system.
 The demo video demonstrates real-time voltage generation and step counting.
