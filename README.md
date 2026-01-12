@@ -56,9 +56,6 @@ Automation & Robotics Engineering Student
 
 ## Project Setup
 
-### Prototype View
-![Prototype](images/prototype.jpg)
-
 ### Final Setup
 ![Final Setup](images/final_setup.jpg)
 
